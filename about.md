@@ -4,12 +4,14 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+I am a 3rd-year Computer Science student at Goldsmiths, University of London.
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+[github](https://github.com/TristanThomson)
+
+[linkedin](https://linkedin.com/in/jonathankytang)
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[tthom001@gold.ac.uk](mailto:tthom001@gold.ac.uk)

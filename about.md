@@ -10,7 +10,7 @@ I am a 3rd-year Computer Science student at Goldsmiths, University of London.
 
 [github](https://github.com/TristanThomson)
 
-[linkedin](https://linkedin.com/in/jonathankytang)
+[linkedin](https://linkedin.com/in/Tristan-thomson)
 
 ### Contact me
 

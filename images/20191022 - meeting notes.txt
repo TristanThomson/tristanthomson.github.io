@@ -1,0 +1,64 @@
+22 Nov 2019
+
+Meet 15.30-17.00 Ida's office
+
+What are the problems/questions that you are trying to solve/answer?
+
+>> What influences contribute mainly to one's decision on votes.   aim
+
+
+given vote results, in spreadsheets, 
+
+
+What are the measures/metrics for the resonance that political actors attract on social media?
+
+What are the metrics for social media influence ?
+
+How would you model/identify "expected/unexpected votes"?
+
+>> local p1, p2, ...
+
+
+U
+Na
+Poli
+
+A list of people who satisfy a set of conditions (c1, c2, c3) referred to as 'filter's
+
+
+1. minority votes
+
+What would make the minority votes?
+
+2. search the minority's activities in social networks 
+
+social networks
+ - twitter, comments
+- company 
+
+A and B are minorities.
+what are the similarities / differences of the minority group
+
+C, D, ... majorities
+what are the similarities / differences of the minority group
+
+
+input:
+- ?
+- ?
+output: 
+- ?
+- ?
+
+Next stage, after the literature review:
+System specification:
+
+Describe what my system does:
+1. ...
+2.
+3.
+
+----------------------------------
+Ida's ideas:
+
+Instead of data mining, we focus on graph mining.   We mine the relationships.  This makes sense as the social networks are about the connections between people (as well as objects/attributes).
